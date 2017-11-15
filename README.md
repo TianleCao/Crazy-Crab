@@ -1,2 +1,2 @@
 # Crazy-Crab
-A somatosensory game with JavaCV
+Try a somatosensory game made with JavaCV!
