@@ -1,5 +1,6 @@
 # Crazy-Crab
 Try a somatosensory game made with JavaCV!
+
 ![Alt text](/imgs/game.jpg)
 
 ## Requirements
@@ -19,7 +20,11 @@ This project is aimed for a game controlled by the head's motion. The software w
 -- tester : testing code, could be ignored  
 *material*: contain all the image/audio used in the game (Note there should be a file named 2.wav, but it wasn't uploaded because of file size)
 ## Demo Results
-After lauching the game(run LoginFrame), you can choose to log in or sign up by clicking the words(as shown below).
+After lauching the game (run LoginFrame), you can choose to log in or sign up by clicking the words (as shown below).
+
 ![Alt text](/imgs/login.jpg)  
+
 The game would start after loading the camera. The music would automatically play in the meantime and could be closed using the second button. Players can choose to start/stop the game by clicking the first button, while the third and fourth one could be used to restart and quit the game. Some of the bricks would give additional tools/props, whose use can be easily inferred from the icon.  
+
 ![Alt text](/imgs/gameon.jpg)  
+
