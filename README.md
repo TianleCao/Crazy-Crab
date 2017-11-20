@@ -1,5 +1,6 @@
 # Crazy-Crab
 Try a somatosensory game made with JavaCV!
+
 ## Requirements
 You will need Java JDK 1.6 and JavaCV 1.0
 ## References
@@ -9,7 +10,7 @@ You will need Java JDK 1.6 and JavaCV 1.0
 ## Intorduction
 This project is aimed for a game controlled by the head's motion. The software would open the camera of PC/laptop and detect the face with JavaCV.
 ## Code Structure
-*src*:  
+*src*: source code  
 -- element: all the elements used in the game (i.e. ball, brick, music, items)  
 -- frame : the main frame of the game  
 -- helper : the interface to packages including JavaCV and JDBC  
