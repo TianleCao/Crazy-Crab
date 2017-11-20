@@ -26,5 +26,4 @@ After lauching the game (run LoginFrame), you can choose to log in or sign up by
 
 The game would start after loading the camera. The music would automatically play in the meantime and could be closed using the second button. Players can choose to start/stop the game by clicking the first button, while the third and fourth one could be used to restart and quit the game. Some of the bricks would give additional tools/props, whose use can be easily inferred from the icon.  
 
-![Alt text](/imgs/gameon.jpg)  
 
