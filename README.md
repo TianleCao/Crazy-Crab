@@ -1,5 +1,6 @@
 # Crazy-Crab
 Try a somatosensory game made with JavaCV!
+![Alt text](/imgs/game.jpg)
 
 ## Requirements
 You will need Java JDK 1.6 and JavaCV 1.0
@@ -18,3 +19,6 @@ This project is aimed for a game controlled by the head's motion. The software w
 -- tester : testing code, could be ignored  
 *material*: contain all the image/audio used in the game
 ## Demo Results
+![Alt text](/imgs/login.jpg)
+![Alt text](/imgs/loading.jpg)
+![Alt text](/imgs/gameon.jpg)
